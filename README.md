@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on data analytics of the real estate market.
 - 🌱 I’m currently learning Data Science and R.
-- 👯 I’m looking to collaborate on machine learning for finance.
+- 👯 I’m looking to collaborate on applied finance.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shashwat-sharma-30888b217/)
 
 
