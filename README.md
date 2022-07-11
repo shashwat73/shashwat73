@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Currently working on DCF Models for all Dow 30 companies
-- 🌱 Learning Data Science
-- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/shashwat-sharma-30888b217/)
+- Learning Data Science
+- Looking to collaborate on DCF Models for all Dow 30 companies
+- Contact me: [Linkedin](https://www.linkedin.com/in/shashwat-sharma-30888b217/)
 
 
